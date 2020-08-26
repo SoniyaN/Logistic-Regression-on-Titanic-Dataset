@@ -22,6 +22,6 @@ Data covers passengers only, not crew.
 12.	boat - Lifeboat (if survived)
 13.	body - Body number (if did not survive and body was recovered)
 
-If .ipynb is not accessible, try to open that notebook using nbviewer online, just click the link below.
+<b>NOTE:</b> If .ipynb is not accessible, try to open that notebook using nbviewer online, just click on the link below.
 
 https://nbviewer.jupyter.org/github/SoniyaN/Logistic-Regression-on-Titanic-Dataset/blob/master/Titanic_LogisticRegression.ipynb

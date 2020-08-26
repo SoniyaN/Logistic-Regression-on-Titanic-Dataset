@@ -1,12 +1,12 @@
 # Logistic-Regression-on-Titanic-Dataset
 EDA on Titanic dataset
 
-SUMMARY
+<b>SUMMARY</b>
 
 This is a classic dataset used in many data mining tutorials and demos -- perfect for getting started with exploratory analysis and building binary classification models to predict survival.
 Data covers passengers only, not crew.
 
-FEATURES
+<b>FEATURES</b>
 
 1.	survival - Survival (0 = No; 1 = Yes)
 2.	class - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
